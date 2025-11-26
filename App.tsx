@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { View, Task, Animal, BuildingItem, PlacedItem, SpecialEvent, MarketItem, Notification, SavedGameState, WeatherType } from './types';
 import { MOCK_TASKS, MOCK_ANIMALS, ANIMAL_NAMES_POOL, MARKET_ITEMS } from './constants';
